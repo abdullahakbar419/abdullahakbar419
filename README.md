@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdullahakbar419
 - 👀 I’m interested in Web Programming ( Backend Developer )
 - 🌱 I’m currently learning Universitas Pakuan
-- 💞️ I’m looking to collaborate on Web Proggramming
+- 💞️ I’m looking to collaborate on Web Programming
 - 📫 How to reach me 
 
 <!---
